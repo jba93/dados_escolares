@@ -1,9 +1,13 @@
 # Dados Escolares
 
-Projeto realizado no Curso de Pandas: formatos diferentes de entrada e saída (IO) (prof. Guilherme Lima - Alura).
+### Tecnologias utilizadas
+Python, Pandas, Numpy, SQLite e Google Colab.
 
+### Desafio
+https://cursos.alura.com.br/course/pandas-io
+
+### Descrição
 O objetivo do projeto foi aprender a trabalhar com vários tipos e fontes de dados, como JSON, DataFrames, arquivos CSV, páginas HTML e também a usar o SQLite através da biblioteca Pandas.
-
 - O primeiro passo foi ler os nomes dos alunos de um arquivo JSON e transformar a tabela de nomes em um DataFrame. Criamos também IDs para os alunos usando a biblioteca Numpy e e-mail para cada um deles.
 - Em seguida, lemos uma página HTML com nomes de diversos cursos que uma escola oferece. Também transformamos os dados em DataFrame e criamos seus IDs.
 - Definimos um número aleatório de cursos em que cada aluno estaria matriculado nessa escola.
